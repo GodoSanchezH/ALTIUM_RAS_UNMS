@@ -1,0 +1,93 @@
+
+STEP {
+    COL=2
+    NAME=cam_work
+}
+
+LAYER {
+    ROW=1
+    CONTEXT=BOARD
+    TYPE=SIGNAL
+    NAME=pcb2_copper_signal_top.gbr
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=2
+    CONTEXT=BOARD
+    TYPE=SIGNAL
+    NAME=pcb2_copper_signal_bot.gbr
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=3
+    CONTEXT=MISC
+    TYPE=DOCUMENT
+    NAME=pcb2_top_3d_body.gbr
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=4
+    CONTEXT=MISC
+    TYPE=DOCUMENT
+    NAME=pcb2_top_assembly.gbr
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=5
+    CONTEXT=MISC
+    TYPE=DOCUMENT
+    NAME=pcb2_mechanical_1.gbr
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=6
+    CONTEXT=MISC
+    TYPE=DOCUMENT
+    NAME=pcb2_board.gbr
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=7
+    CONTEXT=MISC
+    TYPE=DOCUMENT
+    NAME=pcb2_top_courtyard.gbr
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}
+
+LAYER {
+    ROW=8
+    CONTEXT=MISC
+    TYPE=DOCUMENT
+    NAME=pcb2_profile.gbr
+    POLARITY=POSITIVE
+    START_NAME=
+    END_NAME=
+    OLD_NAME=
+}

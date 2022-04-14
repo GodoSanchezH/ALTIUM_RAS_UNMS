@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: QT7_Xplained_Pro.PcbDoc   15-12-2017  PM 02:43:41
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : QT7_Xplained_Pro.TXT
+EIA File   : QT7_Xplained_Pro.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.399mm)                                           Round             32        PTH        11.76inch (298.81mm)
+T2      39mil (1.001mm)                                           Round             20        PTH        2.22inch (56.48mm)
+T3      106mil (2.7mm)                                            Round             2         PTH        1.07inch (27.30mm)
+T4      79mil (1.999mm)                                           Round             2         NPTH       0.60inch (15.24mm)
+T5      87mil (2.2mm)                                             Round             8         NPTH       3.20inch (81.34mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              64
+
+Total Processing Time (hh:mm:ss) : 00:00:01

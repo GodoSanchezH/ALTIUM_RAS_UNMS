@@ -1,0 +1,39 @@
+Added Component: Designator=C7(C0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT23-3)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "IRLML6402TRPBF"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R2512)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k0"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R2512)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5AUX Pin=C7-2
+Added Pin To Net: NetName=+5V0 Pin=Q1-2
+Added Pin To Net: NetName=+5AUX Pin=Q1-3
+Added Pin To Net: NetName=+5V0 Pin=R7-1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=Q1-1
+Added Pin To Net: NetName=NetC7_1 Pin=R7-2
+Added Pin To Net: NetName=NetC7_1 Pin=R8-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetIC1_14 Pin=IC1-14
+Added Pin To Net: NetName=NetIC1_14 Pin=R8-1
+Added Net: Name=NetIC1_14
+Added Member To Class: ClassName=main Member=Component C7 100nF
+Added Member To Class: ClassName=main Member=Component Q1 IRLML6402TRPBF
+Added Member To Class: ClassName=main Member=Component R7 100k0
+Added Member To Class: ClassName=main Member=Component R8 10k0

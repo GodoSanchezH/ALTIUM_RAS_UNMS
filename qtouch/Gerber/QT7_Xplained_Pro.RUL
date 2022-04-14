@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: D:\offical\Hardware\devkits\Extension\QT7_Xplained_Pro\06_Hardware\Rev3\QT7_Xplained_Pro.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_LED|Scope=Board|Minimum=1.97
+RuleKind=Clearance|RuleName=Clearance_Poly|Scope=Board|Minimum=39.37
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

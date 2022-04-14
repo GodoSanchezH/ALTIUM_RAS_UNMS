@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=dif_N Pin=MODULE-3
+Added Pin To Net: NetName=dif_N Pin=U-42
+Added Net: Name=dif_N
+Added Pin To Net: NetName=dif_P Pin=MODULE-7
+Added Pin To Net: NetName=dif_P Pin=U-41
+Added Net: Name=dif_P
+Added Differential Pair: Name=dif

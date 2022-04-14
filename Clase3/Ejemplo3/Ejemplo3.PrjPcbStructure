@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Sheet1.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=Avr|SchDesignator=Avr|FileName=CPU.SchDoc|SheetNumber= |SymbolType=Device Sheet|RawFileName=CPU|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=Headers|SchDesignator=Headers|FileName=Input.SchDoc|SheetNumber= |SymbolType=Device Sheet|RawFileName=Input|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=Leds|SchDesignator=Leds|FileName=Outputs.SchDoc|SheetNumber= |SymbolType=Device Sheet|RawFileName=Outputs|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
